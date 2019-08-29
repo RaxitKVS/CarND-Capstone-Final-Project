@@ -36,7 +36,7 @@ The path needs to be updated in the traffic light detector part.
 Made the dbw node to subcribe to the /twist_cmd and use various controllers to provide appropriate throttle, brake, and steering commands.  
 
 ### Waypoint updater  (Venkat)
-detail..... blah blah, blah~~~   
+Updated the waypoint node for the car to follow.
 
 ### pid controller tunning (Ghicheon Lee)
 FOPDT(first order plus dead-time model) ,IMC(Internal Model Control).  MPC model is considered.     
